@@ -1,3 +1,4 @@
+-- https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1
 SELECT ms_original.id,
     ms_original.first_name,
     ms_original.last_name,

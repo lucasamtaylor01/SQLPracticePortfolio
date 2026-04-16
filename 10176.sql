@@ -1,3 +1,4 @@
+-- https://platform.stratascratch.com/coding/10176-bikes-last-used?code_type=1
 SELECT bike_original.bike_number, bike_original.end_time
 FROM (SELECT bike_number, MAX(end_time) AS end_time
     FROM dc_bikeshare_q1_2012
