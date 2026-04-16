@@ -1,4 +1,6 @@
 -- https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1
+-- 15 de abril de 2026
+
 SELECT ms_original.id,
     ms_original.first_name,
     ms_original.last_name,
@@ -12,4 +14,4 @@ FROM (SELECT id,
 INNER JOIN ms_employee_salary AS ms_original
 ON ms.id = ms_original.id 
     AND ms.salary = ms_original.salary
-ORDER BY ms_original.id ASC
+ORDER BY ms_original.id ASC;
