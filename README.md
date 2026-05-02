@@ -1,4 +1,4 @@
-# SQL Practice Portfolio
+# 🗄️ SQL Practice Portfolio
 
 Personal collection of SQL solutions to interview-style problems from [StrataScratch](https://www.stratascratch.com/), a data science practice platform with real-world questions used by top tech companies.
 
