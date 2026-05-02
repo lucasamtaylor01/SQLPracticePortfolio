@@ -17,9 +17,3 @@ The goal is to build consistency in writing clean, readable SQL and to prepare f
 ## Disclaimer
 
 All solutions are written independently by me. Problem statements and datasets belong to [StrataScratch](https://www.stratascratch.com/) — only my personal solutions are published here.
-
----
-
-## Connect
-
-- StrataScratch: [lucasamtaylor](https://platform.stratascratch.com/user/lucasamtaylor)
