@@ -15,7 +15,7 @@ FROM
   INNER JOIN users_pages AS t2 ON t2.user_id = t1.friend_id 
 EXCEPT 
 SELECT 
-  user_id, 
+  user_id,  
   page_id 
 FROM 
   users_pages
